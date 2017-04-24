@@ -1,0 +1,22 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "cool",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wem5637/node-shell.git"
+  },
+  "author": "rick and will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wem5637/node-shell/issues"
+  },
+  "homepage": "https://github.com/wem5637/node-shell#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
